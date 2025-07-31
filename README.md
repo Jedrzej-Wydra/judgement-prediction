@@ -15,7 +15,7 @@ Experiments showed that linear models were sensitive to normalization, while tre
 
 The chart below compares the performance of all models on the test set.
 
-![Model comparison results](results.png)
+![Model comparison results](Results.png)
 
 ## Dataset
 The project is based on the ECHR Open Data dataset, consisting of over eleven thousand legal cases extracted from the European Court of Human Rights' public database and further annotated by human experts. Each case includes metadata such as the procedural branch, ISO country code of the respondent, language, importance rating, and a short conclusion. The dataset is split into training, development, and test partitions, and each instance is labeled with a binary judgement indicating whether a human rights violation was found.
